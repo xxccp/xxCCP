@@ -1,4 +1,4 @@
-### 大家好, 我是[翠花](https://www.nange.cn)！
+### 大家好, 我是[xxCCP](https://www.nange.cn)！
 ---
 <a href="http://weibo.com/234610510">
   <img align="left" alt="翠花 | 新浪微博" width="26px" src="https://github.com/xOS/xOS/blob/master/icon/weibo.svg" />
